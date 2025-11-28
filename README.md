@@ -1,6 +1,6 @@
 # ***Sistema-de-Controle-da-Cantina***
 
-##**Descrição:**
+## **Descrição:**
 
 O Sistema de Controle da Cantina serve para controlar os pedidos dos clientes e controlar o dinheiro que entra e sai da cantina.
 Para melhorar o trabalho da dona da cantina, será feito um  aplicativo para fazer reservas, os alunos, professores e outros 
